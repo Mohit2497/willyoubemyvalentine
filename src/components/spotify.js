@@ -56,7 +56,7 @@ function SpotifyEmbed() {
     updateEmbed();
 
 
-  }, [currentTrackIndex]);
+  }, [currentTrackIndex, trackURIs]);
 
     //Go forward and backward in the track list and wrap around
     const goForward = () => {
