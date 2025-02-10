@@ -11,7 +11,7 @@ function BasicExample() {
             <Icon icon="noto:pink-heart" alt="Heart Logo" width="50" height="50"></Icon>
         </div>
         <div className="ps-4 d-inline-block align-center">
-            Valentines Day 2024
+            Valentines Day 2025
         </div>
       </Navbar>
     
